@@ -1,9 +1,7 @@
-[![View Ensemble Learning Toolbox on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/68383-ensemble-learning-toolbox)
+# Extreme Learning Machine Toolbox
 
-# Ensemble Learning Toolbox
-
-This is a toolbox to enable the creation of custom ensembles in MATLAB.
-It is possible to create a desired ensemble model using just a few lines of code.
+This is a toolbox to enable the creation of extreme learning machines in MATLAB.
+It is possible to create a desired model using just a few lines of code.
 
 ## Getting Started
 
@@ -22,7 +20,7 @@ You just need to add a copy of the source codes (src directory) in the MATLAB pa
 This can be made programatically with the following code:
 
 ```
-addpath('<directory>/ELT/src')
+addpath('<directory>/ELM')
 ```
 
 Two simple demos can be found in the examples directory.
@@ -52,6 +50,7 @@ We use a three-codes versioning system: vA.B.C.
 
 * **Victor Henrique Alves Ribeiro, MSc** - *Coding* - Industrial and Systems Engineering Graduate Program, Pontifícia Universidade Católica do Paraná - Brazil
 * **Gilberto Reynoso-Meza, PhD** - *Supervision* - Industrial and Systems Engineering Graduate Program, Pontifícia Universidade Católica do Paraná - Brazil
+* **Hugo Siqueira Valadares, PhD** - *Supervision* - Computer Science Graduate Program, Electrical Engineering Graduate Program, Federal University of Technology - Paraná - Brazil
 
 ## License
 
@@ -62,9 +61,13 @@ This project is licensed under the 3-clause BSD License - see the [LICENSE.txt](
 If this toolbox is of help, please cite our work
 
 ```
-@article{ribeiro2020ensemble,
-  title={Ensemble Learning Toolbox: Easily Building Custom Ensembles in MATLAB},
-  author={Victor Henrique Alves Ribeiro and Gilberto Reynoso-Meza},
-  year={in review}
+@article{ribeiro2020multi,
+  title={Multi-objective ensembles of echo state networks and extreme learning machines for streamflow series forecasting},
+  author={Ribeiro, Victor Henrique Alves and Reynoso-Meza, Gilberto and Siqueira, Hugo Valadares},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={95},
+  pages={103910},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
