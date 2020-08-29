@@ -2,6 +2,7 @@
 
 This is a toolbox to enable the creation of extreme learning machines in MATLAB.
 It is possible to create a desired model using just a few lines of code.
+This version also includes the possibility to add functional link between the inputs and output.
 
 ## Getting Started
 
@@ -9,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You just need MATLAB and the Statistics and Machine Learning Toolbox.
+You just need MATLAB.
 This toolbox has been developed on MATLAB R2019a, but should also be compatible with earlier versions.
 
 ### Installing
@@ -52,6 +53,8 @@ We use a three-codes versioning system: vA.B.C.
 * **Gilberto Reynoso-Meza, PhD** - *Supervision* - Industrial and Systems Engineering Graduate Program, Pontifícia Universidade Católica do Paraná - Brazil
 * **Hugo Siqueira Valadares, PhD** - *Supervision* - Computer Science Graduate Program, Electrical Engineering Graduate Program, Federal University of Technology - Paraná - Brazil
 
+Also, this work has been built based on code from Dr. Cristiano Lyra Filho (UNICAMP- Brazil), Mr. Qin-Yu Zhu, and Dr. Guang-Bin Huang (Nanyang Technological University - Singapore).
+
 ## License
 
 This project is licensed under the 3-clause BSD License - see the [LICENSE.txt](LICENSE.txt) file for details.
@@ -69,5 +72,31 @@ If this toolbox is of help, please cite our work
   pages={103910},
   year={2020},
   publisher={Elsevier}
+}
+```
+
+Please, also cite the works for Extreme Learning Machines and Random Vector Functional Link:
+
+```
+@article{huang2006extreme,
+  title={Extreme learning machine: theory and applications},
+  author={Huang, Guang-Bin and Zhu, Qin-Yu and Siew, Chee-Kheong},
+  journal={Neurocomputing},
+  volume={70},
+  number={1-3},
+  pages={489--501},
+  year={2006},
+  publisher={Elsevier}
+}
+```
+
+```
+@incollection{husmeier1999random,
+  title={Random vector functional link (RVFL) networks},
+  author={Husmeier, Dirk},
+  booktitle={Neural Networks for Conditional Probability Estimation},
+  pages={87--97},
+  year={1999},
+  publisher={Springer}
 }
 ```
