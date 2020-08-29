@@ -11,19 +11,22 @@
 %
 %--------------------------------------------------------------------------
 %
-%   Institution:
+%   Institutions:
 %       Optimization, Modeling and Control Systems Research Group
-%
-%       Graduate Program in Industrial and Systems Engineering - PPGEPS
-%
+%       Industrial and Systems Engineering Graduate Program - PPGEPS
 %       Pontifical Catholic University of Paraná - Brazil.
-%           <http://en.pucpr.br/>
+%
+%       Computer Science Graduate Program
+%       Electrical Engineering Graduate Program
+%       Federal University of Technology - Paraná - Brazil.
 %
 %--------------------------------------------------------------------------
 %
 %	Authors:
-%       Victor Henrique Alves Ribeiro
+%       Victor Henrique Alves Ribeiro, M.Sc.
 %           <victor.henrique@pucpr.edu.br>
+%       Gilberto Reynoso-Meza, Ph.D.
+%       Hugo Siqueira Valadares, Ph.D.
 %
 
 %% Data preparation

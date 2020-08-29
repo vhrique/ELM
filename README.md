@@ -1,3 +1,5 @@
+[![View Extreme Learning Machine Toolbox on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/79664-extreme-learning-machine-toolbox)
+
 # Extreme Learning Machine Toolbox
 
 This is a toolbox to enable the creation of extreme learning machines in MATLAB.
