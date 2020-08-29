@@ -53,7 +53,7 @@ We use a three-codes versioning system: vA.B.C.
 * **Gilberto Reynoso-Meza, PhD** - *Supervision* - Industrial and Systems Engineering Graduate Program, Pontifícia Universidade Católica do Paraná - Brazil
 * **Hugo Siqueira Valadares, PhD** - *Supervision* - Computer Science Graduate Program, Electrical Engineering Graduate Program, Federal University of Technology - Paraná - Brazil
 
-Also, this work has been built based on code from Dr. Levy Bocatto (UNICAMP- Brazil), Mr. Qin-Yu Zhu, and Dr. Guang-Bin Huang (Nanyang Technological University - Singapore).
+Also, this work has been built based on code from Dr. Levy Boccato (UNICAMP- Brazil), Mr. Qin-Yu Zhu, and Dr. Guang-Bin Huang (Nanyang Technological University - Singapore).
 
 ## License
 
