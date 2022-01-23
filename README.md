@@ -63,7 +63,7 @@ This project is licensed under the 3-clause BSD License - see the [LICENSE.txt](
 
 ## Citation
 
-If this toolbox is of help, please cite our work
+If this toolbox is of any help, please cite our work
 
 ```
 @article{ribeiro2020multi,
